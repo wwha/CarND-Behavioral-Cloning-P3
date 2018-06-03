@@ -1,0 +1,8 @@
+# ignore the .DS_Store file, which is created by MacOS
+.DS_Store
+
+# ignore the Data Images
+Data/
+
+# ignore the simulation app
+mac_sim.app
